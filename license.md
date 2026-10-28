@@ -177,4 +177,4 @@ simply how these tools work in practice.
 
 ---
 
-*7-days-to-die-utility-pack · Updated 2026-10-27 · Shared under the MIT License*
+*7-days-to-die-utility-pack · Updated 2026-10-28 · Shared under the MIT License*
